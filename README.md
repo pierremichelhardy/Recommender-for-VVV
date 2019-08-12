@@ -1,5 +1,5 @@
 # Recommender-for-VVV
-This code is in partial fulfillment of the Smart Service Innovation Project I. This code generates artificial data and provides a proof of concept for a recommender system.
+This code is in partial fulfillment of the Smart Service Innovation Project I. This code generates artificial data and provides a proof of concept for a recommender system. Since the dataset was provided by the company, I do not have the right to share it in the repository. 
 
 BUSINESS PROBLEM
 A business problem was given to us by VVV. They tasked us on creating an innovative service for their gift card company. Our group focused on the idea of creating an app for VVV. The app would have a mini game in the form of a little dress up. Users who wants to give a card to their friends can create a customized avatar of the gift receiver. Based on the costumes we would create a profile of the gift receiver and recommend items for them to use the gift card on. 
