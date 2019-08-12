@@ -18,3 +18,5 @@ For the two recommender models, both were based on using the cosine distance fun
 
 BUSINESS SOLUTION
 We came up with the app as the solution for VVV after conducting interviews with users. They found the VVV brand to be primitive. Having an app that recommends users is not an innovative idea relative to the other apps out there but for VVV, it just might be the key to reviving their brand. The aspect of the minigame would inject fun into the brand and at the same time, enable VVV to gain more data about their users. Gaining more data was another bonus for VVV because they mentioned that they know almost nothing about their customers. 
+
+If this project interests you, I have included the full report called "Final_Report.pdf"
